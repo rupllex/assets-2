@@ -1,32 +1,34 @@
-[
-  {
-    "id": 1,
-    "cat": "electronics",
-    "title": "Aeron Q2 Wireless Noise-Cancelling Headphones",
-    "price": 4499,
-    "mrp": 7999,
-    "offer": "44% off",
-    "image": "https://via.placeholder.com/300",
-    "keywords": "aeron q2 headphones wireless bluetooth noise cancelling"
-  },
-  {
-    "id": 2,
-    "cat": "fashion",
-    "title": "Nike Air Max Running Shoes",
-    "price": 5999,
-    "mrp": 8999,
-    "offer": "33% off",
-    "image": "https://via.placeholder.com/300",
-    "keywords": "nike air max running shoes sports sneakers"
-  },
-  {
-    "id": 3,
-    "cat": "mobiles",
-    "title": "Samsung Galaxy S24",
-    "price": 64999,
-    "mrp": 79999,
-    "offer": "19% off",
-    "image": "https://via.placeholder.com/300",
-    "keywords": "samsung galaxy s24 mobile smartphone android"
-  }
-]
+{
+  "products": [
+    {
+      "id": 1,
+      "cat": "electronics",
+      "title": "Aeron Q2 Wireless Noise-Cancelling Headphones",
+      "price": 4499,
+      "mrp": 7999,
+      "offer": "44% off",
+      "image": "https://via.placeholder.com/300",
+      "keywords": "aeron q2 headphones wireless bluetooth noise cancelling"
+    },
+    {
+      "id": 2,
+      "cat": "fashion",
+      "title": "Nike Air Max Running Shoes",
+      "price": 5999,
+      "mrp": 8999,
+      "offer": "33% off",
+      "image": "https://via.placeholder.com/300",
+      "keywords": "nike air max running shoes sports sneakers"
+    },
+    {
+      "id": 3,
+      "cat": "mobiles",
+      "title": "Samsung Galaxy S24",
+      "price": 64999,
+      "mrp": 79999,
+      "offer": "19% off",
+      "image": "https://via.placeholder.com/300",
+      "keywords": "samsung galaxy s24 mobile smartphone android"
+    }
+  ]
+}
