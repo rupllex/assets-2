@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "cat": "electronics",
+    "title": "Aeron Q2 Wireless Noise-Cancelling Headphones",
+    "short_title": "Quiet enough for the metro, light enough for a full workday.",
+    "price": 4499,
+    "mrp": 7999,
+    "offer": "44% off",
+    "rating": 4.6,
+    "ratings_count": 2184,
+    "image": "https://via.placeholder.com/300",
+    "gallery": [
+      "https://via.placeholder.com/300",
+      "https://via.placeholder.com/300"
+    ],
+    "chips": [
+      "60 hr battery",
+      "40 dB noise cancelling",
+      "262 g"
+    ],
+    "stores": [
+      {
+        "code": "A",
+        "name": "Amazon",
+        "price": 4499,
+        "url": "https://amzn.to/xxx",
+        "best": true
+      },
+      {
+        "code": "F",
+        "name": "Flipkart",
+        "price": 4649,
+        "url": "https://fkrt.it/xxx",
+        "best": false
+      }
+    ],
+    "verdict_score": 9,
+    "verdict_text": "Strong noise cancelling, sound stays balanced at high volume.",
+    "pros": [
+      "Cuts engine hum",
+      "60 hours battery",
+      "Soft ear pads"
+    ],
+    "cons": [
+      "Plastic build",
+      "Mic picks up wind"
+    ],
+    "scores": [
+      {
+        "label": "Sound",
+        "value": 8.8
+      },
+      {
+        "label": "Noise block",
+        "value": 9
+      },
+      {
+        "label": "Comfort",
+        "value": 9.2
+      },
+      {
+        "label": "Battery",
+        "value": 9.6
+      },
+      {
+        "label": "Calls",
+        "value": 6.8
+      }
+    ],
+    "who": [
+      {
+        "title": "Daily commuters",
+        "tag": "Great fit",
+        "tag_class": "",
+        "text": "Blocks train noise."
+      },
+      {
+        "title": "Work from home",
+        "tag": "Good fit",
+        "tag_class": "mid",
+        "text": "Comfortable all day."
+      },
+      {
+        "title": "Gym",
+        "tag": "Skip it",
+        "tag_class": "no",
+        "text": "Not sweat-resistant."
+      }
+    ],
+    "specs": [
+      {
+        "k": "Driver",
+        "v": "40 mm dynamic"
+      },
+      {
+        "k": "Battery",
+        "v": "60 hrs (ANC off)"
+      },
+      {
+        "k": "Bluetooth",
+        "v": "5.3, multipoint"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Works with iPhone?",
+        "a": "Yes, standard Bluetooth."
+      },
+      {
+        "q": "Can I use it wired?",
+        "a": "Yes, 3.5mm cable included."
+      }
+    ],
+    "related": [
+      {
+        "id": 2,
+        "title": "Nike Air Max Running Shoes",
+        "meta": "Fashion",
+        "price": 5999
+      }
+    ],
+    "ai_answers": {
+      "ChatGPT": "",
+      "Gemini": "",
+      "DeepSeek": "",
+      "Claude": "",
+      "Perplexity": ""
+    },
+    "videos": [
+      {
+        "url": "https://www.youtube.com/shorts/KiaqamDbp2g",
+        "label": "Review"
+      }
+    ]
+  }
+]
